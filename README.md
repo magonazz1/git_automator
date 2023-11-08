@@ -57,3 +57,7 @@ While this project offers basic automation for common Git tasks and helps make P
 This project is intended to be open source, and I encourage contributions and improvements from the community. Feel free to fork the repository, make enhancements, and submit pull requests. Let's work together to make this tool even more useful.
 
 **Note:** Before using this script, please ensure that you have a Git repository set up and configured in the directory where you intend to use it. Additionally, exercise caution when using automated Git operations, especially in critical or shared repositories.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
