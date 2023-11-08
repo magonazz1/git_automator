@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ls -la
-mv gito ../
+cp gito ../
 rm LICENSE
 rm README.md
 rm gito.py
-cd ..
+cd ../
