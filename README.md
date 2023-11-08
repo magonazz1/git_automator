@@ -60,4 +60,4 @@ This project is intended to be open source, and I encourage contributions and im
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/magonazz1/git_automator/blob/master/LICENSE) file for details.
