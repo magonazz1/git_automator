@@ -1,4 +1,4 @@
-# Project Readme
+# Git Automator
 
 This project is a Python script that provides two main features:
 
