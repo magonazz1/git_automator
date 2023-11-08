@@ -16,6 +16,19 @@ This project is a Python script that provides two main features:
 
 To use this script, follow these steps:
 
+## Prerequisite
+To make use of this tool, a few prerequisites are assumed:
+
+- You are expected to have an existing Git repository where you are actively working. This repository should contain a collection of files, which may include Python files or any other files written in your chosen programming language.
+
+- Additionally, it is assumed that you have already configured your global Git settings, particularly `user.name` and `user.email`, to match the settings associated with the Git repository where your files reside.
+
+- Before proceeding to clone and use this tool, it is essential that you navigate to the directory of your existing repository, the location where your files are stored.
+
+By ensuring that these prerequisites are met, you can effectively use this tool within the context of your project.
+
+Here are the steps to use the tool
+
 1. **Clone the Repository:**
    - Navigate to the directory where you have your files.
    - Clone this repository by running the following command:
