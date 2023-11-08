@@ -20,7 +20,7 @@ To use this script, follow these steps:
    - Navigate to the directory where you have your files.
    - Clone this repository by running the following command:
      ```bash
-     git clone https://github.com/magonazz1/gito.git && ./start
+     git clone https://github.com/magonazz1/gito.git && cd gito && ./start
      ```
    - After running the command, you can check if the "gito" file has appeared in your current directory by using the `ls` command.
 
