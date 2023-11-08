@@ -42,6 +42,9 @@ def gito(user_prompt):
 
         # Making all Python files executable
         subprocess.run("chmod +x *.py", shell=True)
+        print("""
+    All your .py files have been made executable
+        """)
         auto_git()
     else:
         print("Invalid choice. Please enter 'y' for Yes or 'n' for No.")
